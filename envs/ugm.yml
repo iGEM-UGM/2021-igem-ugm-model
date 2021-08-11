@@ -1,9 +1,14 @@
-name: modelling
+name: 2021-ugm-modelling-env
 channels:
-    - defaults
     - conda-forge
+    - defaults
 dependencies:  
-    - jupyterlab = 3.1.1
+    - jupyterlab = 3.1.4
+    - cobra = 0.22.1
+    - nodejs = 16.6.1
+    - pip = 21.2.3
     - pip:
         - tellurium
         - memote
+        - escher
+        - cameo
