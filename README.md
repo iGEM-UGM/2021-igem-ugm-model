@@ -28,6 +28,8 @@ jupyter lab
 # Open Jupyter in a browser by copy-paste the url given
 ```
 
+* Video tutorial here: https://drive.google.com/file/d/1XYOH8r_zDZsPCQwluGJOaOGtDzJPJSM6/view?usp=sharing
+
 ## Test if all dependencies are correctly installed
 * Run the notebook
 
@@ -44,3 +46,5 @@ jupyter nbextension enable --py --sys-prefix escher
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install escher
 ```
+
+* Video tutorial here: https://drive.google.com/file/d/1HONYDWtZhTv2Kvi2mhQ6P5gshvXd936A/view?usp=sharing
