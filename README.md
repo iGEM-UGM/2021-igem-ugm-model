@@ -1,7 +1,7 @@
 # 2021-igem-ugm-model
 
 ## **C. violaceum Genome Scale Metabolic Model Update**
-Thanks to the [original author](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210008) for sharing the map! Nevertheless, curation are still needed as the reaction and metabolite ids does not match between the escher map and the model. I've tried to make a [speedy script (messy as hell)](notebook/01_model_curation.ipynb) to help the curation. And here are the results:
+Thanks to the [original author](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210008) for sharing the map! Nevertheless, curation are still needed as the reaction and metabolite ids does not match between the escher map and the model. I've tried to make a [script (messy as hell)](notebooks/01_model_curation.ipynb) to help the curation. And here are the results:
 * [SBML Model](results/iDB858_curated_phase1.xml)
 * [Curated Map (Phase-1)](results/edited_map_reaction_curated_phase1.json)
 
