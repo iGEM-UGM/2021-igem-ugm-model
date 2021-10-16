@@ -1,0 +1,7 @@
+,map_id,map_name,map_metabolites,map_node,model_id,model_name,model_metabolites
+43,FUMt2_2,Fumarate transport via proton symport  2 H ,"['fum_c', 'h_c', 'fum_e', 'h_e']",1576763,rxn05561_c,fumarate transport in/out via proton symport,"['h_e', 'fum_e', 'h_c', 'fum_c']"
+44,FUMt2_2,Fumarate transport via proton symport  2 H ,"['fum_c', 'h_c', 'fum_e', 'h_e']",1576763,rxn10152_c,Fumarate transport via proton symport 2 H,"['h_e', 'fum_e', 'h_c', 'fum_c']"
+47,SUCCt3,Succinate transport out via proton antiport,"['succ_c', 'succ_e', 'h_c', 'h_e']",1576766,rxn10154_c,succinate transport via proton symport 2 H,"['h_e', 'succ_e', 'h_c', 'succ_c']"
+48,SUCCt3,Succinate transport out via proton antiport,"['succ_c', 'succ_e', 'h_c', 'h_e']",1576766,rxn05654_c,succinate transporter in/out via proton symport,"['h_e', 'succ_e', 'h_c', 'succ_c']"
+50,SUCCt2_2,Succinate transport via proton symport  2 H ,"['succ_c', 'succ_e', 'h_c', 'h_e']",1576771,rxn10154_c,succinate transport via proton symport 2 H,"['h_e', 'succ_e', 'h_c', 'succ_c']"
+51,SUCCt2_2,Succinate transport via proton symport  2 H ,"['succ_c', 'succ_e', 'h_c', 'h_e']",1576771,rxn05654_c,succinate transporter in/out via proton symport,"['h_e', 'succ_e', 'h_c', 'succ_c']"
