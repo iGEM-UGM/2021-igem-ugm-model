@@ -11,7 +11,7 @@ We still need to match some metabolites and reaction, which requires manual cura
 Therefore, what we need to do is:
 * Find matching metabolite in the model: [tables/metabolite_map.csv](tables/metabolite_map.csv)
 * Find which of these reaction are the matches: [tables/double_reactions.csv](tables/double_reactions.csv)
-* Find out the remaining mismatch reactions from the map: [tables/missing_on_map.csv](tables/missing_on_map.csv), with the model: [all_reactions_in_model.csv](all_reactions_in_model.csv)
+* Find out the remaining mismatch reactions from the map: [tables/missing_on_map.csv](tables/missing_on_map.csv), with the model: [tables/all_reactions_in_model.csv](all_reactions_in_model.csv)
 
 ## Conda installation
 I am using WSL2 with Conda to run this tutorial, some pointers to set it up in my blog: https://matinnuhamunada.github.io/posts/2021/04/jupyter-wsl2/
