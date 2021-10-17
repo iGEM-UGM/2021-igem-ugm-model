@@ -1,5 +1,10 @@
 # 2021-igem-ugm-model
 
+## **KO Strategy update**
+I rewrite the tutorial from cameo: https://cameo.bio/05-predict-gene-knockout-strategies.html as there are some parts that are not yet updated with escher API.  
+You can find [**the notebook here**](notebooks/03_find_knockout.ipynb).  
+You can also find the [**mutants map here**](figures/).
+
 ## **C. violaceum Genome Scale Metabolic Model Update**
 Thanks to the [original author](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210008) for sharing the map! Nevertheless, curation are still needed as the reaction and metabolite ids does not match between the escher map and the model. 
 
