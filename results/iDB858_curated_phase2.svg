@@ -2926,189 +2926,189 @@ svg.escher-svg .node-to-combine {
             </g>
             <g id="r1577547" class="reaction">
                 <g class="reaction-label-group" transform="translate(5392.94580078125,4746.6962890625)">
-                    <text class="reaction-label label" visibility="visible">biomass_precursor 0.00</text>
+                    <text class="reaction-label label" visibility="visible">biomass1.12 0.252</text>
                     <g class="all-genes-label-group"/></g>
                 <g class="segment-group" id="s482">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 5334.0517578125,4737.48193359375" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 5334.0517578125,4737.48193359375" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s483">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 5334.0517578125,4737.48193359375" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 5334.0517578125,4737.48193359375" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels"/></g>
                 <g class="segment-group" id="s484">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4685.48193359375 5455.328125,4573.30322265625 5507.459008793664,4573.824806755078" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4685.48193359375 5455.328125,4573.30322265625 5507.459008793664,4573.824806755078" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5501.275745024268,4566.37945543053)" style="fill: rgb(200, 200, 200);">59.81</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5501.275745024268,4566.37945543053)" style="fill: rgb(149, 150, 252);">59.81</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s485">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5391.197265625,4926.6220703125 5471.341140552655,4925.110336541185" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5391.197265625,4926.6220703125 5467.293516425906,4925.186685857854" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(5471.341140552655,4925.110336541185)rotate(268.9193722618716)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(5467.293516425906,4925.186685857854)rotate(268.9193722618716)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5476.74140456212,4917.623148070036)" style="fill: rgb(200, 200, 200);">59.81</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5476.74140456212,4917.623148070036)" style="fill: rgb(149, 150, 252);">59.81</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s486">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5427.28515625,4630.19921875 5514.919628541267,4647.951563881437" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5427.28515625,4630.19921875 5514.919628541267,4647.951563881437" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5511.573668045858,4639.5988613800955)" style="fill: rgb(200, 200, 200);">4.9414</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5511.573668045858,4639.5988613800955)" style="fill: rgb(149, 150, 252);">4.9414</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s487">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5423.4208984375,4516.16943359375 5492.267672990028,4517.265969252152" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5423.4208984375,4516.16943359375 5492.267672990028,4517.265969252152" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5486.170046542292,4509.78426087795)" style="fill: rgb(200, 200, 200);">0.129</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5486.170046542292,4509.78426087795)" style="fill: rgb(149, 150, 252);">0.129</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s488">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5350.98828125,4453.01611328125 5417.779531293823,4463.2937189871445" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5350.98828125,4453.01611328125 5417.779531293823,4463.2937189871445" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5413.713085534712,4455.11594100024)" style="fill: rgb(200, 200, 200);">0.361</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5413.713085534712,4455.11594100024)" style="fill: rgb(149, 150, 252);">0.361</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s489">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5337.27587890625,5001.37158203125 5294.8119346107915,4997.362375506994" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5337.27587890625,5001.37158203125 5298.842354877001,4997.742905094975" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(5294.8119346107915,4997.362375506994)rotate(95.39355662650496)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(5298.842354877001,4997.742905094975)rotate(95.39355662650496)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5287.812598752561,5018.148266073591)" style="fill: rgb(200, 200, 200);">59.81</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5287.812598752561,5018.148266073591)" style="fill: rgb(149, 150, 252);">59.81</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s490">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5307.541015625,4413.09912109375 5383.05307180129,4417.541302062134" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5307.541015625,4413.09912109375 5383.05307180129,4417.541302062134" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5377.581156323685,4409.811771630463)" style="fill: rgb(200, 200, 200);">0.8977</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5377.581156323685,4409.811771630463)" style="fill: rgb(149, 150, 252);">0.8977</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s491">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5316.9716796875,4523.05615234375 5203.3131704327525,4493.146018329343" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5316.9716796875,4523.05615234375 5203.3131704327525,4493.146018329343" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5205.771994573648,4515.66552571765)" style="fill: rgb(200, 200, 200);">59.81</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5205.771994573648,4515.66552571765)" style="fill: rgb(149, 150, 252);">59.81</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s492">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5258.0712890625,4533.61865234375 5106.66507626862,4502.629076625704" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5258.0712890625,4533.61865234375 5106.66507626862,4502.629076625704" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5109.979988290611,4524.988512944073)" style="fill: rgb(200, 200, 200);">0.0709</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5109.979988290611,4524.988512944073)" style="fill: rgb(149, 150, 252);">0.0709</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s493">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5197.05859375,4544.18115234375 5007.783915491848,4512.484435889036" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5197.05859375,4544.18115234375 5007.783915491848,4512.484435889036" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5011.648973593194,4534.714742898574)" style="fill: rgb(200, 200, 200);">2.8328</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5011.648973593194,4534.714742898574)" style="fill: rgb(149, 150, 252);">2.8328</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s494">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5140.27099609375,4564.25048828125 4913.07318007287,4532.05646576817" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5140.27099609375,4564.25048828125 4913.07318007287,4532.05646576817" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4917.320187212914,4554.18471272821)" style="fill: rgb(200, 200, 200);">3.547</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4917.320187212914,4554.18471272821)" style="fill: rgb(149, 150, 252);">3.547</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s495">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5273.55517578125,4938.26416015625 5240.700629949992,4935.0566071843" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5273.55517578125,4938.26416015625 5244.729817728088,4935.449972330742" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(5240.700629949992,4935.0566071843)rotate(95.57605252499131)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(5244.729817728088,4935.449972330742)rotate(95.57605252499131)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5233.65741948222,4955.820133893583)" style="fill: rgb(200, 200, 200);">3.7478</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5233.65741948222,4955.820133893583)" style="fill: rgb(149, 150, 252);">3.7478</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s496">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5068.69580078125,4579.03759765625 4803.546669886783,4546.475423686754" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5068.69580078125,4579.03759765625 4803.546669886783,4546.475423686754" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4808.073831542779,4568.522208495212)" style="fill: rgb(200, 200, 200);">1.7867</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4808.073831542779,4568.522208495212)" style="fill: rgb(149, 150, 252);">1.7867</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s497">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5023.52734375,4594.88134765625 4720.4109507247385,4562.0359180714695" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 5023.52734375,4594.88134765625 4720.4109507247385,4562.0359180714695" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4725.152169750102,4584.0166312682795)" style="fill: rgb(200, 200, 200);">0.205</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4725.152169750102,4584.0166312682795)" style="fill: rgb(149, 150, 252);">0.205</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s498">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5215.0458984375,4899.2412109375 5166.040850752926,4897.961400316496" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5215.0458984375,4899.2412109375 5170.087815034287,4898.067090405882" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(5166.040850752926,4897.961400316496)rotate(91.49599044640259)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(5170.087815034287,4898.067090405882)rotate(91.49599044640259)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5159.994770298737,4919.191171653801)" style="fill: rgb(200, 200, 200);">3.547</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5159.994770298737,4919.191171653801)" style="fill: rgb(149, 150, 252);">3.547</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s499">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4789.48193359375 5353.5947265625,4977.43115234375 5449.051131870168,4978.988313708693" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4789.48193359375 5353.5947265625,4977.43115234375 5445.00332626833,4978.922282660534" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(5449.051131870168,4978.988313708693)rotate(270.9345717689662)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(5445.00332626833,4978.922282660534)rotate(270.9345717689662)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5454.95749240769,4971.699983282387)" style="fill: rgb(200, 200, 200);">4.1182</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5454.95749240769,4971.699983282387)" style="fill: rgb(149, 150, 252);">4.1182</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s500">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4962.51416015625,4611.78173828125 4621.420819023997,4578.711746758732" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4962.51416015625,4611.78173828125 4621.420819023997,4578.711746758732" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4626.330822157261,4600.637991931679)" style="fill: rgb(200, 200, 200);">3.7478</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4626.330822157261,4600.637991931679)" style="fill: rgb(149, 150, 252);">3.7478</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s501">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4907.83935546875,4637.1318359375 4528.762849947734,4603.879510891797" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4907.83935546875,4637.1318359375 4528.762849947734,4603.879510891797" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4533.80930244936,4625.760177640313)" style="fill: rgb(200, 200, 200);">1.496</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4533.80930244936,4625.760177640313)" style="fill: rgb(149, 150, 252);">1.496</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s502">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4851.0517578125,4664.59423828125 4433.987918243518,4631.190955935908" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4851.0517578125,4664.59423828125 4433.987918243518,4631.190955935908" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4439.146937098091,4653.032972314747)" style="fill: rgb(200, 200, 200);">0.5191</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4439.146937098091,4653.032972314747)" style="fill: rgb(149, 150, 252);">0.5191</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s503">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4807.9951171875,4685.7197265625 4352.941043647988,4652.189426406957" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4807.9951171875,4685.7197265625 4352.941043647988,4652.189426406957" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4358.194495591935,4673.998280798982)" style="fill: rgb(200, 200, 200);">0.2557</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4358.194495591935,4673.998280798982)" style="fill: rgb(149, 150, 252);">0.2557</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s504">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5114.79541015625,4868.333984375 5060.687701184052,4866.124178569926" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5114.79541015625,4868.333984375 5064.73267327208,4866.289378741422" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(5060.687701184052,4866.124178569926)rotate(92.33870964712673)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(5064.73267327208,4866.289378741422)rotate(92.33870964712673)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5054.432987569557,4887.263486854673)" style="fill: rgb(200, 200, 200);">13.0279</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(5054.432987569557,4887.263486854673)" style="fill: rgb(149, 150, 252);">13.0279</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s505">
-                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4780.78271484375,4717.4072265625 4287.736328684252,4683.76858423193" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4717.48193359375 C5334.0517578125,4681.48193359375 4780.78271484375,4717.4072265625 4287.736328684252,4683.76858423193" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads"/>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4293.07012572258,4705.548690283156)" style="fill: rgb(200, 200, 200);">13.0279</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4293.07012572258,4705.548690283156)" style="fill: rgb(149, 150, 252);">13.0279</text>
                     </g>
                 </g>
                 <g class="segment-group" id="s506">
-                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5099.533203125,4820.185546875 4965.36268655933,4829.224541398708" pointer-events="visibleStroke" style="stroke: rgb(200, 200, 200); stroke-width: 12px;"/>
+                    <path class="segment" d="M5334.0517578125,4757.48193359375 C5334.0517578125,4793.48193359375 5099.533203125,4820.185546875 4969.401874860351,4828.952423485864" pointer-events="visibleStroke" style="stroke: rgb(149, 150, 252); stroke-width: 16.0483px;"/>
                     <g class="arrowheads">
-                        <path class="arrowhead" d="M-12,0 L0,12 L12,0 Z" transform="translate(4965.36268655933,4829.224541398708)rotate(446.14583843154276)" style="fill: rgb(200, 200, 200); stroke: rgb(200, 200, 200);"/>
+                        <path class="arrowhead" d="M-16.048344141694997,0 L0,16.048344141694997 L16.048344141694997,0 Z" transform="translate(4969.401874860351,4828.952423485864)rotate(446.14583843154276)" style="fill: rgb(149, 150, 252); stroke: rgb(149, 150, 252);"/>
                     </g>
                     <g class="stoichiometry-labels">
-                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4960.669760230739,4850.956069616952)" style="fill: rgb(200, 200, 200);">59.81</text>
+                        <text class="stoichiometry-label" text-anchor="middle" transform="translate(4960.669760230739,4850.956069616952)" style="fill: rgb(149, 150, 252);">59.81</text>
                     </g>
                 </g>
             </g>
