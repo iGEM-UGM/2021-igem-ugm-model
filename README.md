@@ -1,17 +1,13 @@
 # 2021-igem-ugm-model
 
 ## **C. violaceum Genome Scale Metabolic Model Update**
-Thanks to the [original author](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210008) for sharing the map! Nevertheless, curation are still needed as the reaction and metabolite ids does not match between the escher map and the model. I've tried to make a [script (messy as hell)](notebooks/01_model_curation.ipynb) to help the curation. And here are the results:
-* [SBML Model](results/iDB858_curated_phase1.xml)
-* [Curated Map (Phase-1)](results/edited_map_reaction_curated_phase1.json)
+Thanks to the [original author](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210008) for sharing the map! Nevertheless, curation are still needed as the reaction and metabolite ids does not match between the escher map and the model. 
 
-![flux](results/iDB858_curated_phase1.svg)
+The 1st phase curation is done using this [script (messy as hell)](notebooks/01_model_curation.ipynb), and the 2nd phase curation was done with the [curated reaction tables](tables/reaction_map.csv) and this [script](notebooks/02_model_curation_phase2.ipynb). And here are the results:
+* [SBML Model](results/iDB858_curated_phase2.xml)
+* [Curated Map (Phase-2)](results/edited_map_reaction_curated_phase2.json)
 
-We still need to match some metabolites and reaction, which requires manual curation.  
-Therefore, what we need to do is:
-* Find matching metabolite in the model: [tables/metabolite_map.csv](tables/metabolite_map.csv)
-* Find which of these reaction are the matches: [tables/double_reactions.csv](tables/double_reactions.csv)
-* Find out the remaining mismatch reactions from the map: [tables/missing_on_map.csv](tables/missing_on_map.csv), with the model: [all_reactions_in_model.csv](tables/all_reactions_in_model.csv)
+![flux](results/iDB858_curated_phase2.svg)
 
 ## Conda installation
 I am using WSL2 with Conda to run this tutorial, some pointers to set it up in my blog: https://matinnuhamunada.github.io/posts/2021/04/jupyter-wsl2/
