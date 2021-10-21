@@ -1,0 +1,25 @@
+map_id,map_name,model_id,model_name
+2i3ip_c,2i3ip[c],mDB_2i3ip_c,2 - imino - 3- (indol-3-yl)propanoate
+34hpp_c,34hpp[c],2h34hppr_c,p-hydroxyphenylpyruvate
+chpy_c,chpy[c],,
+chpy_e,chpy[e],,
+dvio_c,dvio[c],mDB_dvio_c,Deoxyviolacein
+dvio_e,dvio[e],mDB_dvio_e,Deoxyviolacein
+dvnate_c,dvnate[c],mDB_dvnate_c,Deoxyviolaceinate
+gln_DASH_L_c,L-Glutamine,gln__L_c,L-Glutamine
+glu_DASH_L_c,L-Glutamate,glu__L_c,L-Glutamate
+pdvnate_c,pdvnate[c],mDB_pdvnate_c,Protodeoxyviolaceinate
+phe_DASH_L_c,phe-L[c],phe__L_c,L-Phenylalanine
+phe_DASH_L_e,phe-L[e],phe__L_e,L-Phenylalanine
+provio_c,provio[c],mDB_prodvio_c,Prodeoxyviolacein
+provio_e,provio[e],mDB_prodvio_e,Prodeoxyviolacein
+pvnate_c,pvnate[c],mDB_pvnate_c,Protoviolaceinate
+ser_DASH_L_c,ser-L[c],ser__L_c,L-Serine
+trp_DASH_L_c,trp-L[c],trp__L_c,L-Tryptophan
+trp_DASH_L_e,trp-L[e],trp__L_e,L-Tryptophan
+tyr_DASH_L_c,tyr-L[c],tyr__L_c,L-Tyrosine
+tyr_DASH_L_e,tyr-L[e],tyr__L_e,L-Tyrosine
+vio_c,vio[c],mDB_vio_c,Violacein
+vio_e,vio[e],mDB_vio_e,Violacein
+vnate_c,vnate[c],mDB_vnate_c,Violaceinate
+,,,
